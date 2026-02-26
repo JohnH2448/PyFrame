@@ -1,7 +1,8 @@
 # PyFrame
 ## Beginner Friendly Terminal Graphics Engine
 ### Description
-PyFrame is a graphics engine that renders live frames to a terminal. The engine is build for beginners and experts alike to use with minimal implimentation. Everything needed to build a game, demo, frame, or even livesteam is included in a single script designed for maximum portability and ease of use.
+PyFrame is a graphics engine that renders live frames to a terminal. The engine is built for beginners and experts alike to use with minimal implimentation. Everything needed to build a game, demo, frame, or even livesteam is included in a single script designed for maximum portability and ease of use.
+
 ### Usage
 PyFrame supports a variety of potential use cases:
 - Terminal based games
